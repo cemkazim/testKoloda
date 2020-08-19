@@ -1,0 +1,6 @@
+framework module Pods_testKoloda_testKolodaUITests {
+  umbrella header "Pods-testKoloda-testKolodaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
